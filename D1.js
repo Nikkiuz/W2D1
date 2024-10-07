@@ -52,7 +52,7 @@ console.log('show x=12',x)
   Dimostra l'impossibilità di riassegnare un valore ad una variabile dichiarata con il costrutto const.
 */
 
-// myName = Stefano
+// myName = Albanese
 // console.log ('show const error', myName)
 
 /* ESERCIZIO 6
